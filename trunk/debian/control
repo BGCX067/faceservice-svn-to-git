@@ -1,0 +1,13 @@
+Source: faceservice
+Priority: extra
+Maintainer: Arjan Scherpenisse <arjan@scherpenisse.net>
+Build-Depends: debhelper (>= 5), autotools-dev, automake1.9,  libtool
+Standards-Version: 3.7.2
+Section: libs
+
+Package: faceservice
+Section: www
+Architecture: any
+Depends: libcurl3, libcgicc1, libcv1
+Description: faceservice.cgi - A CGI script to to face recognition in
+ images on the world wide web.

@@ -1,0 +1,14 @@
+2008-11-22  Arjan Scherpenisse  <arjan@scherpenisse.net>
+
+	* configure.ac: Version bump to 0.2
+
+2008-11-22  Arjan Scherpenisse  <arjan@scherpenisse.net>
+
+	* src/faceservice.cpp (main): Added multipart/form-data "regular"
+	file upload capability.
+	
+2008-11-21  Arjan Scherpenisse  <arjan@scherpenisse.net>
+
+	* src/faceservice.cpp (main): Initial implementation and release.
+
+	

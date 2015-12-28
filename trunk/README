@@ -1,0 +1,3 @@
+faceservice.cgi is a CGI program for detecting faces on the web. You
+can post an image or an image URL to it, and the program will respond
+to you with the locations of the faces it has found.
